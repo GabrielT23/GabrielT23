@@ -1,7 +1,7 @@
 ### Olá👋, me chamo Gabriel Teixeira
 
-Sou estudante de Engenharia da Computação
-🔭 Tenho conhecimento em Python, JavaScript, NodeJs, React, entre outras tecnologias
+Sou estudante de Engenharia da Computação<br>
+🔭 Tenho conhecimento em Python, JavaScript, NodeJs, React, entre outras tecnologias<br>
 🌱 Atualmente Estudo Desenvolvimento, mas também interesse em IA
 
 ### 📈Github stats:
